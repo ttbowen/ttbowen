@@ -27,9 +27,9 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#515](https://github.com/Bogdanp/awesome-advent-of-code/pull/515) in [Bogdanp/awesome-advent-of-code](https://github.com/Bogdanp/awesome-advent-of-code)
-2. 💪 Opened PR [#715](https://github.com/gamejolt/gamejolt/pull/715) in [gamejolt/gamejolt](https://github.com/gamejolt/gamejolt)
-3. 💪 Opened PR [#694](https://github.com/gamejolt/gamejolt/pull/694) in [gamejolt/gamejolt](https://github.com/gamejolt/gamejolt)
+1. 🎉 Merged PR [#3](https://github.com/mrwhale-io/mrwhale/pull/3) in [mrwhale-io/mrwhale](https://github.com/mrwhale-io/mrwhale)
+2. 🗣 Commented on [#2](https://github.com/mrwhale-io/mrwhale/issues/2) in [mrwhale-io/mrwhale](https://github.com/mrwhale-io/mrwhale)
+3. 🗣 Commented on [#2](https://github.com/mrwhale-io/mrwhale/issues/2) in [mrwhale-io/mrwhale](https://github.com/mrwhale-io/mrwhale)
 <!--END_SECTION:activity-->
 
 ### 🏆 GitHub Statistics
